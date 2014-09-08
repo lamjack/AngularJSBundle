@@ -1,0 +1,11 @@
+{
+    "name": "wilead/angular-js-bundle",
+    "description": "Angular JS compiled files for Symfony 2 applications",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["angular", "symfony2", "angularjs"],
+    "require": {
+        "php": ">=5.3.0",
+        "symfony/symfony": "2.*"
+    }
+}
