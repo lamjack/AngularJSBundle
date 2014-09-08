@@ -1,0 +1,18 @@
+{
+    "name": "AngularJSBundle",
+    "version": "1.2.23",
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "angular": "1.2.23",
+        "bootstrap": "~3.0.0",
+        "jquery": "~2.0.3",
+        "underscore": "~1.5.2"
+    }
+}
